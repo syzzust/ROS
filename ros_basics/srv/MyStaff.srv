@@ -1,0 +1,5 @@
+string name
+---
+string gender
+int32 age
+string duty
